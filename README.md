@@ -30,4 +30,4 @@ projectDSA1/
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/wanxian23/ContactDirectory.git](https://github.com/wanxian23/ContactDirectory.git)
+   git clone https://github.com/wanxian23/ContactDirectory.git
