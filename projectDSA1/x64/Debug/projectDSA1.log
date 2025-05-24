@@ -1,0 +1,14 @@
+﻿  contactList.cpp
+G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year2\Sem1\Data Struct N Algorithm\Tutorial\Project\ContactDirectory\contactList.cpp(139,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year2\Sem1\Data Struct N Algorithm\Tutorial\Project\ContactDirectory\contactList.cpp(205,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year2\Sem1\Data Struct N Algorithm\Tutorial\Project\ContactDirectory\contactList.cpp(294,65): warning C4129: ',': unrecognized character escape sequence
+G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year2\Sem1\Data Struct N Algorithm\Tutorial\Project\ContactDirectory\contactList.cpp(1186,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year2\Sem1\Data Struct N Algorithm\Tutorial\Project\ContactDirectory\Main.cpp(160,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year2\Sem1\Data Struct N Algorithm\Tutorial\Project\ContactDirectory\Main.cpp(793,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year2\Sem1\Data Struct N Algorithm\Tutorial\Project\ContactDirectory\Main.cpp(974,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year2\Sem1\Data Struct N Algorithm\Tutorial\Project\ContactDirectory\Main.cpp(1194,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year2\Sem1\Data Struct N Algorithm\Tutorial\Project\ContactDirectory\Main.cpp(1238,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year2\Sem1\Data Struct N Algorithm\Tutorial\Project\ContactDirectory\Main.cpp(1728,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  projectDSA1.vcxproj -> G:\My Drive\School_Stuff\UTeM_Doc\Sem\Year2\Sem1\Data Struct N Algorithm\Tutorial\Project\ContactDirectory\x64\Debug\projectDSA1.exe
